@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Joey Xiao's Personal page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -22,6 +22,7 @@ Feel free to explore my portfolio, browse through my blog posts, and don't hesit
 Thank you for stopping by, and I hope you enjoy your time here.
 
 Warm regards,
+
 Joey
 
 A data-driven personal website
