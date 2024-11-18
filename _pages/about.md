@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br><br><br> 
+<br>
 
 Hello fellows! Welcome to my personal corner on the web! I am Joey and I'm thrilled to have you here! This website is about a reflection of my passions, experiences, and aspirations, where I hope to connect with like-minded individuals and share my journey through life.
 
