@@ -1,15 +1,12 @@
 ---
 permalink: /
-# title: ""
+title: "Joey's Personal page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-About this page
 ================================================
 Hello fellows! Welcome to my personal corner on the web! My name is Yuhan Xiao and I usually just go by Joey, I'm thrilled to have you here! This website is about a reflection of my passions, experiences, and aspirations, where I hope to connect with like-minded individuals and share my journey through life.
 
