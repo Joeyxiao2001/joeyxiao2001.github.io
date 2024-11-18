@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Joey Xiao's Personal page"
+title: "Joey's Personal page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

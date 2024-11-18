@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in North Carolina State University 2024
-
+* B.S. in North Carolina State University, 2024
+* M.S. in New York University, 2025 (expected)
 Work experience
 ======
 * Summer 2021: Game Designer Intern
@@ -22,7 +22,7 @@ Work experience
 * Summer 2023: Research Assistant
   * North Carolina State University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Alexander
   
 Skills
 ======
