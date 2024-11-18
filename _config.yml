@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Joey Xiao"
   avatar           : "profile.jpeg"
-  bio              : "Student"
-  location         : "Raleigh, NC"
+  bio              : "Graduate student @New York University"
+  location         : "Brooklyn, New York"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "yxiao29@ncsu.edu"
+  email            : "yx3728@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,10 +97,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.ncsu.edu/yxiao29"
+  github           : "https://github.ncsu.edu/Joeyxiao2001"
   google_plus      :
   keybase          :
-  instagram        : https://www.instagram.com/joeyxiao4real
+  instagram        : joeyxiao4real
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
