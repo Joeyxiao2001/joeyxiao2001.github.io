@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-================================================
-Hello fellows! Welcome to my personal corner on the web! My name is Yuhan Xiao and I usually just go by Joey, I'm thrilled to have you here! This website is about a reflection of my passions, experiences, and aspirations, where I hope to connect with like-minded individuals and share my journey through life.
+<br><br><br> 
+
+Hello fellows! Welcome to my personal corner on the web! I am Joey and I'm thrilled to have you here! This website is about a reflection of my passions, experiences, and aspirations, where I hope to connect with like-minded individuals and share my journey through life.
 
 I am a programmer enthusiast with a keen interest in Game Development. I graduated from NC State with a degree in Computer Science, and ever since, I have been constantly exploring new avenues to learn, grow, and make a difference in my field.
 
