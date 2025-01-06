@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * B.S. in North Carolina State University, 2024
-* M.S. in New York University, 2025 (expected)
+* M.S. in New York University, 2026 (expected)
+
+
 Work experience
 ======
 * Summer 2021: Game Designer Intern
@@ -26,10 +28,11 @@ Work experience
   
 * Summer 2023: Database Cloud Engineering Intern
   * Oracle, CA
-  * Duties included: Developed and deployed innovative engineering solutions, including AI enablement, to enhance SaaS and application delivery functions.
-Managed Oracle databases and cloud infrastructure, supporting migration, performance tuning, and lifecycle tasks.
-Designed scalable infrastructure solutions, optimizing deployments, monitoring, and logging for dynamic environments.
-Resolved database and cloud issues, ensuring high availability, reliability, and operational excellence.
+  * Duties included: 
+    * Developed and deployed innovative engineering solutions, including AI enablement, to enhance SaaS and application delivery functions.
+    * Managed Oracle databases and cloud infrastructure, supporting migration, performance tuning, and lifecycle tasks.
+    * Designed scalable infrastructure solutions, optimizing deployments, monitoring, and logging for dynamic environments.
+    * Resolved database and cloud issues, ensuring high availability, reliability, and operational excellence.
 
  
 Skills
