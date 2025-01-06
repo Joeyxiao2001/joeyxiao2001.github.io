@@ -24,7 +24,7 @@ Work experience
 * Summer 2022: Research Assistant
   * North Carolina State University, NC
   * Duties included: Tagging issues
-  * Supervisor: Professor Alexander Card
+  * Supervisor: Alexander Card
   
 * Summer 2023: Database Cloud Engineering Intern
   * Oracle, CA

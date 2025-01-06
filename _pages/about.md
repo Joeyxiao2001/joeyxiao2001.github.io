@@ -22,4 +22,5 @@ Feel free to explore my portfolio, check out my CV, and reach out through the co
 Thanks for stopping by—I hope you enjoy your visit!
 
 Warm regards,
+
 Joey
