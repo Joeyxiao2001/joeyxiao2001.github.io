@@ -19,8 +19,8 @@ Work experience
   * miHoYo Co., Ltd
   * Duties included: Collaborated with the team to design multiple game levels; Participated in the design of new characters, enhancing the game's appeal to a broader audience; Resolved game level problems, improving the overall player experience.
 
-* Summer 2023: Research Assistant
-  * North Carolina State University
+* Summer 2022: Research Assistant
+  * North Carolina State University, NC
   * Duties included: Tagging issues
   * Supervisor: Professor Alexander
   
