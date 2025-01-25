@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Wolf Scheduler"
+excerpt: "a robust Java-based course scheduling tool, enabling students to seamlessly select, organize, and manage class schedules with an intuitive user interface and optimized backend algorithms for enhanced usability and efficiency.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

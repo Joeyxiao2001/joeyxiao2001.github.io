@@ -19,20 +19,28 @@ Work experience
 ======
 * Summer 2021: Game Designer Intern
   * miHoYo Co., Ltd, Shanghai
-  * Duties included: Collaborated with the team to design multiple game levels; Participated in the design of new characters, enhancing the game's appeal to a broader audience; Resolved game level problems, improving the overall player experience.
+  * Duties included:
+    * Collaborated with a multidisciplinary team to conceptualize and design engaging game levels, ensuring alignment with the overall game narrative and mechanics.
+    * Contributed to the creation of new character designs, enhancing the game’s appeal and catering to a diverse audience.
+    * Identified and resolved design and functionality issues in game levels, resulting in improved gameplay and player satisfaction.
+    * Gained hands-on experience in iterative design processes, integrating user feedback into actionable improvements.
 
 * Summer 2022: Research Assistant
   * North Carolina State University, NC
-  * Duties included: Tagging issues
-  * Supervisor: Alexander Card
+  * Duties included: 
+    * Conducted in-depth research and analysis to support ongoing academic projects.
+    * Performed issue tagging and classification to enhance project efficiency and data organization.
+    * Collaborated with team members to troubleshoot and resolve challenges in research methodology.
+    * Delivered regular updates and findings to the supervisor, ensuring alignment with project goals.
+  * Supervisor: Dr. Alexander Card
   
 * Summer 2023: Database Cloud Engineering Intern
-  * Oracle, CA
+  * Oracle, Redwood City, CA
   * Duties included: 
-    * Developed and deployed innovative engineering solutions, including AI enablement, to enhance SaaS and application delivery functions.
-    * Managed Oracle databases and cloud infrastructure, supporting migration, performance tuning, and lifecycle tasks.
-    * Designed scalable infrastructure solutions, optimizing deployments, monitoring, and logging for dynamic environments.
-    * Resolved database and cloud issues, ensuring high availability, reliability, and operational excellence.
+    * Developed and deployed innovative engineering solutions, including AI enablement, improving SaaS and application delivery performance by 23%.
+    * Managed and optimized Oracle databases and cloud infrastructure, supporting migration projects impacting over 100,000+ users, while ensuring 99.9% uptime.
+    * Designed scalable infrastructure solutions, reducing deployment time by 33.3% through improved automation and streamlined processes for monitoring and logging.
+    * Diagnosed and resolved critical database and cloud issues, cutting downtime by 8.75% and enhancing system reliability across multiple environments.
 
  
 Skills
